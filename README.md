@@ -1,8 +1,8 @@
 <h1 align="center">
 <div align="center">
   <a href="https://www.bybit.com" target="_blank">
-    <img src="./images/btc-orderbook.gif" width="600" alt="btc-orderbook" />
-    <div><p style="font-size: 15px; text-decoration: none; cursor: default;">가격 변동이 큰 암호화폐 호가창</p></div>
+    <img src="./images/scalper-en-alpha-0.1.0.gif" alt="btc-orderbook" />
+    <div><p style="font-size: 15px; text-decoration: none; cursor: default;">Demo</p></div>
   </a>
 </div>
 </h1>
@@ -19,6 +19,7 @@
 - 다량의 주문을 설정한 호가 간격으로 한 번에 넣을 수 있는 **퀵 주문** ⚡️
 - 1-Click으로 모든 주문 취소 ✅
 - 단축키로 주문을 빠르게 넣고 취소 ⌨️(기능 추가 예정)
+- 크로스 플랫폼 지원(윈도우, macOS)
 - 다국어 지원 🌐
 
 ---
