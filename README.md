@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://www.bybit.com" target="_blank">
     <img src="./images/scalper-en-alpha-0.1.0.gif" alt="btc-orderbook" />
-    <div><p style="font-size: 15px; text-decoration: none; cursor: default;">Demo</p></div>
+    <div><p style="font-size: 12px; text-decoration: none; cursor: default;">Demo</p></div>
   </a>
 </div>
 </h1>
@@ -18,7 +18,7 @@
 - 가격 변동이 클 때도 내가 원하는 호가에 **빠르고 정확한** 지정가 거래 📌
 - 다량의 주문을 설정한 호가 간격으로 한 번에 넣을 수 있는 **퀵 주문** ⚡️
 - 1-Click으로 모든 주문 취소 ✅
-- 단축키로 주문을 빠르게 넣고 취소 ⌨️(기능 추가 예정)
+- 단축키로 주문을 빠르게 넣기 및 취소 ⌨️
 - 크로스 플랫폼 지원(윈도우, macOS)
 - 다국어 지원 🌐
 
@@ -39,6 +39,8 @@
 > IP 주소를 입력하지 않으면, 3개월마다 키를 새로 발급 받아야 하므로 반드시 입력해주세요. 키 이름은 중요하지 않지만 앱에 표시됩니다.
 
 ![bybit-api-menu](./images/create-api-key-2.png)
+
+🚧 위 이미지처럼 지갑과 관련된 항목은 선택하지 마세요. 애플리케이션에서 사용자의 지갑과 관련된 작업 및 요구는 절대 하지 않습니다.
 
 키를 성공적으로 발급 받았다면 아래와 같은 화면이 보입니다.
 
